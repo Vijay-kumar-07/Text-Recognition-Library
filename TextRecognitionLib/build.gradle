@@ -34,3 +34,6 @@ dependencies {
     androidTestImplementation libs.ext.junit
     androidTestImplementation libs.espresso.core
 }
+// Group and version information
+group = 'com.github.Vijay-kumar-07'
+version = '1.0.0'
